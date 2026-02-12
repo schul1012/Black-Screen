@@ -1,7 +1,7 @@
 <h1>Black Screen</h1>
 
 <h2>Description</h2>
-A ticket-solving practice of a black screen issue in an simulated environment, IT Specialist Simulator.
+A ticket-solving practice of a black screen issue in a simulated environment, IT Specialist Simulator.
 <br />
 
 <h2>Environments Used</h2>
